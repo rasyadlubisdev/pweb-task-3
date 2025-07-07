@@ -3,7 +3,7 @@
 Sebuah website portal berita modern dengan desain minimalis, navigasi yang intuitif, dan sistem routing yang responsif. Portal ini menampilkan berita terkini dari berbagai kategori dengan layout yang optimal untuk semua ukuran layar.
 
 ## 🌐 Link Deployment
-https://newshub-portal.vercel.app/
+https://pweb-task-3.vercel.app/
 
 ## 🚀 Fitur Utama
 
